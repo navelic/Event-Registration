@@ -1,0 +1,29 @@
+body
+{
+	background-image:url("../background/preview.jpg");
+	height:100vh;
+	background-size: cover;
+	background-position: center;
+}
+.login-page{
+	margin: 50px 500px 50px 50px;
+	background-color:rgba(255, 255, 255, 0.384);
+	
+}
+.form{
+	position: relative;
+	padding:50px 0 50px 50px;
+	margin:auto;
+}
+.con{
+	
+	position: relative;
+	font-size:25px; 
+	color: #030303d7;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.image
+{
+	margin: -700px 0 0 900px;
+
+}

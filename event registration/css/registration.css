@@ -1,0 +1,108 @@
+*{
+			margin: 0;padding: 0;
+		}
+		body{
+			background-image: url(../background/registration.jpg);
+			background-position: center;
+			
+			font-family: sans-serif;
+			margin-top: 40px;
+		}
+		.regform{
+			width: 800px;
+			background-color: rgba(0, 0, 1, 0.925);
+			margin: auto;
+			color: #ffffff;
+			text-align: center;
+			padding:10px 0px;
+			border-radius: 15px 15px 0px 0px;
+
+		}
+		.main{
+			background-color: rgba(0, 0, 0, 0.849);
+			width: 800px;
+			margin: auto;
+		}
+		form{
+			padding: 20px;
+
+		}
+		.name{
+			margin-left: 25px;
+			margin-top: 10px;
+			width: 125px;
+			color: white;
+			font-size:21px;
+			font-weight: 700 
+		}
+		.fname{
+			position: relative;
+			left: 200px;
+			top:-30px;
+			width: 500px;
+			line-height: 32px;
+			border-radius: 6px;
+			padding:0 22px;
+			font-size:16px;  
+		}
+		.email{
+			position: relative;
+			left: 200px;
+			top:-30px;
+			width: 500px;
+			line-height: 32px;
+			border-radius: 6px;
+			padding:0 22px;
+			font-size:16px;
+		}
+		.option{
+			position: relative;
+			left: 200px;
+			top:-30px;
+			width: 500px;
+			color: #555;
+			line-height: 32px;
+			border-radius: 6px;
+			padding:7px 22px;
+			font-size:16px;
+			outline: none;
+			overflow: hidden;
+
+		}
+		.option option{
+			font-size:18px; 
+		}
+		.quant{
+			position: relative;
+			left: 200px;
+			top:-30px;
+			width: 500px;
+			line-height: 32px;
+			border-radius: 6px;
+			padding:0 22px;
+			font-size:16px;
+
+		}
+		.submit{
+			position: relative;
+			background-color: #2507cf;
+			display: block;
+			margin:20px 0px 0px 20px;
+			text-align: center;
+			border-radius: 12px;
+			border:2px solid ;
+			padding: 14px 11px;
+			outline: none;
+			color: white;
+			left: 350px;
+
+
+		}
+	
+		.error
+		{
+			position: relative;
+			text-align: center;
+			color:red;
+			left: 30px;
+		}

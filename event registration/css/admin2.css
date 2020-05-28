@@ -1,0 +1,30 @@
+body{
+	background-image : url("../background/admin.jpg");
+}
+table{
+	width: 95%;
+	margin: auto;
+	background-color: black;
+	color: blanchedalmond;
+	font-family: 'Lucida Sans' ;
+	font-size: 14px;
+}
+th{
+	height: 40px;
+	text-align: center;
+	padding: 8px;
+	border-bottom: 1px;
+	background-color: blue;
+}
+td{
+	text-align: center;
+	padding: 8px;
+	border-bottom: 1px;
+}
+tr:hover{
+	background-color: #34ebd6;
+	color: black;
+}
+a:hover{
+	color:red;
+}
